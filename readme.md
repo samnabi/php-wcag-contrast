@@ -14,7 +14,7 @@ The `adjustColors()` function takes three arguments:
 
 1. `$color1` – The first colour, in hex (string) or RGB (array) format.
 2. `$color2` – The second colour, in hex (string) or RGB (array) format.
-3. `$threshold` – The contrast threshold to test for. Default is 'AA'.
+3. `$threshold` – The contrast threshold to test for. Optional. Default is 'AA'.
 
 ### Other thresholds
 
